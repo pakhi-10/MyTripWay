@@ -9,6 +9,10 @@ const tintColorLight = '#0a7ea4';
 const tintColorDark = '#fff';
 
 export const Colors = {
+  purple_bg: '#D7A5F2',
+  GRAY: '#757575',
+  BLACK: '#0D0D0D',
+  WHITE: '#fff',
   light: {
     text: '#11181C',
     background: '#fff',

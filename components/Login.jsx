@@ -28,7 +28,7 @@ export default function  () {
                 textAlign: 'center',
                 color: Colors.GRAY,
                 padding: 10,
-                marginBottom: 2
+                marginBottom: 5
             }}>Sign in to discover your next adventure!
             </Text>
 
@@ -39,7 +39,7 @@ export default function  () {
                     textAlign: 'center',
                     fontFamily: 'outfit',
                     fontSize: 17,
-                }}>Sign In with Google</Text>
+                }}>Get Started</Text>
             </TouchableOpacity>
         </View>
     </View>
